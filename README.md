@@ -21,7 +21,7 @@ This is a command-line based chat application that interacts with the GPT-4o-min
 
 1. Clone the Repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ktevfik/terminal-gpt.git
    cd your-repo-name
    ```
 
