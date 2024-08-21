@@ -27,7 +27,7 @@ This is a command-line based chat application that interacts with the GPT-4o-min
 
 2. Set Up a Virtual Environment (Optional but Recommended):
    ```
-   python3 -m venv venv
+   python3 -m venv openavi-env
    source venv/bin/activate
    ```
 
